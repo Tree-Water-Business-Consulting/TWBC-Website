@@ -5657,3 +5657,15 @@ a {
     text-align: center;
   }
 }
+#custom-html-60 {
+  /* Type valid CSS here */
+}
+#custom-html-60 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-60 p {
+  font-size: 60px;
+  color: #777;
+}
